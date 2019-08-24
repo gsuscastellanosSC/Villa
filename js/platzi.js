@@ -12,12 +12,12 @@ var flechas = {
 };
 
 var fondo = {
-  url: "img/title.png",
+  url: "Img/title.png",
   cargaOk: false
 };
 
 var cerdo = {
-  url: "img/cerdo.png",
+  url: "Img/cerdo.png",
   cargaOk: false
 };
 
